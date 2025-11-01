@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Stand By Me",
+    "artist": "Ben E. King",
+    "original_key": "A",
+    "tempo_bpm": 120,
+    "time_signature": "4/4",
+    "genre": "Soul",
+    "difficulty": "beginner",
+    "chord_progression": {
+      "sections": [
+        {
+          "name": "Verse",
+          "order": 1,
+          "chords": [
+            {"chord": "A", "beats": 4},
+            {"chord": "F#m", "beats": 4},
+            {"chord": "D", "beats": 4},
+            {"chord": "E", "beats": 4}
+          ]
+        },
+        {
+          "name": "Chorus",
+          "order": 2,
+          "chords": [
+            {"chord": "A", "beats": 4},
+            {"chord": "F#m", "beats": 4},
+            {"chord": "D", "beats": 2},
+            {"chord": "E", "beats": 2},
+            {"chord": "A", "beats": 4}
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Wonderwall",
+    "artist": "Oasis",
+    "original_key": "Em",
+    "tempo_bpm": 87,
+    "time_signature": "4/4",
+    "genre": "Rock",
+    "difficulty": "beginner",
+    "chord_progression": {
+      "sections": [
+        {
+          "name": "Verse",
+          "order": 1,
+          "chords": [
+            {"chord": "Em", "beats": 4},
+            {"chord": "G", "beats": 4},
+            {"chord": "D", "beats": 4},
+            {"chord": "A7sus4", "beats": 4}
+          ]
+        },
+        {
+          "name": "Chorus",
+          "order": 2,
+          "chords": [
+            {"chord": "C", "beats": 4},
+            {"chord": "D", "beats": 4},
+            {"chord": "Em", "beats": 4},
+            {"chord": "Em", "beats": 4}
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "original_key": "C",
+    "tempo_bpm": 76,
+    "time_signature": "4/4",
+    "genre": "Rock",
+    "difficulty": "beginner",
+    "chord_progression": {
+      "sections": [
+        {
+          "name": "Verse",
+          "order": 1,
+          "chords": [
+            {"chord": "C", "beats": 4},
+            {"chord": "G", "beats": 4},
+            {"chord": "Am", "beats": 4},
+            {"chord": "F", "beats": 4},
+            {"chord": "C", "beats": 4},
+            {"chord": "G", "beats": 4},
+            {"chord": "F", "beats": 2},
+            {"chord": "C", "beats": 2}
+          ]
+        },
+        {
+          "name": "Chorus",
+          "order": 2,
+          "chords": [
+            {"chord": "Am", "beats": 4},
+            {"chord": "G", "beats": 4},
+            {"chord": "F", "beats": 4},
+            {"chord": "C", "beats": 4}
+          ]
+        }
+      ]
+    }
+  }
+]
